@@ -1,6 +1,6 @@
-# CS gitlab link
- https://gitlab.cs.uct.ac.za/team169/SeaClear
- 
+
+# github link
+https://github.com/AlexBongani/SeaClear-water-quality-app 
 # SeaClear Website - README
 
 ## Introduction
