@@ -1,0 +1,6 @@
+
+Copyright [2024] Alex Mabuza, Tsianda Netsianda, and Sachen Pather
+
+All rights reserved. Unauthorized copying, distribution, modification, or use of this code is strictly prohibited. No part of this code may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the owners, Alex Mabuza, Tsianda Netsianda, and Sachen Pather.
+
+For any inquiries or permissions, please contact one of the owners listed above.
